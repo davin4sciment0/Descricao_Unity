@@ -8,5 +8,5 @@ Esta cena foi criada com o intuito de aprendermos as colisões: Static collider,
 ## Player:
 Utilizamos um Astronauta como Player onde emsi já possuium Capsule Collider e um Rigidbody como deve ser feito, além disso, implementamos a ele os scripts necessários para o desenrolar da cena.
 
-<img src="img/Player.jpg">
+<img src="img/Player.jpg"> <img src="img/Player_Config.jpg">
  
