@@ -1,5 +1,8 @@
 # Jogo do Astronauta
 
+<a href="https://youtu.be/GNJCFnRgIXw">Clique aqui para assistir ao jogo</a>
+<a href="https://drive.google.com/drive/folders/1aRXR83QR8oAexbKWf9EYqxdAwfOsTy51?usp=sharing">Clique aqui para baixar e jogar</a>
+
 ### Autores
 Davi dos Santos Nascimento e João Lucas dos Anjos Pinto
 
@@ -25,6 +28,7 @@ Ao longo do cenário colocamos diversas plataformas e desafios para o jogador pe
 ## Códigos usados:
 Aqui estaremos mostrando alguns dos códigos essenciais para realização do projeto. Onde criamos e colocamos os Scripts no Player, para que as colisões ocorrecem da maneira correta, precisariamos detectar os objetos (através de suas tag's) que estariam em colisão e assim executar uma função dependendo do contexto, a partir dai conseguimos executar os tipos de colisões solicitadas.
 
-<img src="img/Personagem.jpg" width="300px"> 
+<img src="img/Script1.jpg" width="600px"> 
+<img src="img/Script2.jpg" width="600px"> 
+<img src="img/Script3.jpg" width="600px"> 
 
-<img src="img/Script.jpg" width="300px"> 
