@@ -23,6 +23,6 @@ Ao longo do cenário colocamos diversas plataformas e desafios para o jogador pe
 <img src="img/Area_de_salto.jpg" width="180px"> <img src="img/Estrelas.jpg" width="212px"> <img src="img/Gosma.jpg" width="190px"> <img src="img/Limitador.jpg" width="218px"> <img src="img/Plataformas.jpg" width="170px">
 
 ## Códigos usados:
-Aqui estaremos mostrando alguns dos códigos essenciais para realização do projeto.
+Aqui estaremos mostrando alguns dos códigos essenciais para realização do projeto. Onde criamos e colocamos os Scripts no Player, para que as colisões ocorrecem da maneira correta, precisariamos detectar os objetos (através de suas tag's) que estariam em colisão e assim executar uma função dependendo do contexto, a partir dai conseguimos executar os tipos de colisões solicitadas
 
 <img src="img/Personagem.jpg" width="300px"> 
