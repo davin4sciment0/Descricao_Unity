@@ -1,8 +1,8 @@
 # Jogo do Astronauta
 
-<a href="https://youtu.be/GNJCFnRgIXw" target>Clique aqui para assistir ao jogo</a>
+<a href="https://youtu.be/GNJCFnRgIXw" target="blank">Clique aqui para assistir ao jogo</a>
 
-<a href="https://drive.google.com/drive/folders/1aRXR83QR8oAexbKWf9EYqxdAwfOsTy51?usp=sharing" target>Clique aqui para baixar e jogar</a>
+<a href="https://drive.google.com/drive/folders/1aRXR83QR8oAexbKWf9EYqxdAwfOsTy51?usp=sharing" target="blank">Clique aqui para baixar e jogar</a>
 
 ### Autores
 Davi dos Santos Nascimento e João Lucas dos Anjos Pinto
