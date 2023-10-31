@@ -12,7 +12,7 @@ Utilizamos um Astronauta como Player onde emsi já possuium Capsule Collider e u
      <img src="img/Braco.jpg" width="300px"> 
 </div>
 
-<img src="img/Player_Config.jpg" width="300px">
+<img src="img/Player_Config.jpg" width="500px">
 
 ## Cenário
 Ao longo do cenário colocamos diversas plataformas e desafios para o jogador percorrer
@@ -21,3 +21,8 @@ Ao longo do cenário colocamos diversas plataformas e desafios para o jogador pe
 ### Componentes do cenário
 
 <img src="img/Area_de_salto.jpg" width="180px"> <img src="img/Estrelas.jpg" width="212px"> <img src="img/Gosma.jpg" width="190px"> <img src="img/Limitador.jpg" width="218px"> <img src="img/Plataformas.jpg" width="170px">
+
+## Códigos usados:
+Aqui estaremos mostrando alguns dos códigos essenciais para realização do projeto.
+
+<img src="img/Personagem.jpg" width="300px"> 
