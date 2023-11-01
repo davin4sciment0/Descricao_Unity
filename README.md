@@ -35,16 +35,24 @@ Aqui estaremos mostrando alguns dos códigos essenciais para realização do pro
 
 ### Colisores
 ## Static collider:
-Representa objetos que não se movem durante a execução do jogo. Esses objetos são imutáveis em termos de posição e forma ao longo do tempo de jogo. (utilizado para a colisão de parede e outros na cena).
+Representa objetos que não se movem durante a execução do jogo. Esses objetos são imutáveis em termos de posição e forma ao longo do tempo de jogo. 
+
+("utilizado para a colisão de parede e outros na cena").
 
 ## Rigidbody Collider: 
-Este componente é usado para aplicar física a um objeto. Quando um objeto tem um Rigidbody associado, ele passa a ser afetado pela gravidade, forças externas e pode ter movimento físico. (utilizado no personagem).
+Este componente é usado para aplicar física a um objeto. Quando um objeto tem um Rigidbody associado, ele passa a ser afetado pela gravidade, forças externas e pode ter movimento físico. 
+
+("utilizado no personagem").
 
 ## Kinematic Rigidbody Collider
 Este tipo de colisor foi projetado para se mover sob simulação, mas apenas sob controle muito explícito do usuário. Enquanto um Corpo Rígido Dinâmico é afetado pela gravidade e forças, um Corpo Rígido Cinemático não é. 
 
 ## Static Trigger Collider: 
-Pode-se unir o Trigger Colliders, um tipo especial de Collider, que não gera uma resposta física quando dois objetos colidem, mas, em vez disso, dispara eventos quando um objeto entra ou sai de sua área de colisão, em objetos estáticos (objetos que não se movem). (utilizado nas estrelas vermelhas)
+Pode-se unir o Trigger Colliders, um tipo especial de Collider, que não gera uma resposta física quando dois objetos colidem, mas, em vez disso, dispara eventos quando um objeto entra ou sai de sua área de colisão, em objetos estáticos (objetos que não se movem).
+
+("utilizado nas estrelas vermelhas")
 
 ## Rigidbody Trigger Collider:
-Ao combinar um Rigidbody com um Trigger Collider, você pode criar situações em que objetos com Rigidbody podem acionar eventos quando entram em contato com a área de detecção do Trigger Collider, mesmo que não haja uma resposta física associada à colisão. (utilizado na área de impulssão)
+Ao combinar um Rigidbody com um Trigger Collider, você pode criar situações em que objetos com Rigidbody podem acionar eventos quando entram em contato com a área de detecção do Trigger Collider, mesmo que não haja uma resposta física associada à colisão. 
+
+("utilizado na área de impulssão")
